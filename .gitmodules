@@ -1,0 +1,6 @@
+[submodule "chat_api"]
+	path = chat_api
+	url = https://github.com/Delivery-Klad/chat_api
+[submodule "chat_desktop"]
+	path = chat_desktop
+	url = https://github.com/Delivery-Klad/chat_desktop
